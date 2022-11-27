@@ -29,12 +29,12 @@ Variable is just like container (storage area) to hold data.
 ### Variable Declaration
 A declaration of a variable is where a program says that it needs a variable.
 ```javascript
-  int x, y, z;                // declare 3 variables.
+  let x, y, z;                // declare 3 variables.
 ```
 
 ### Variable Initalization
 Initialization is the process of assigning a value to the Variable. 
 ```javascript
-  int marks = 90;             // declare and initialize variable marks 
+  let marks = 90;             // declare and initialize variable marks 
 ```
 
