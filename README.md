@@ -12,20 +12,3 @@ Follow me: [ahsan-chy](https://www.github.com/ahsan-chy) for more JS Topics upda
 ```http
   JavaScript Variables
 ```
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Type     | Description                |
-| :------- | :------------------------- |
-| `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
